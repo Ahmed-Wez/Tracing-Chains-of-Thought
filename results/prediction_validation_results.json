@@ -1,0 +1,38 @@
+{
+  "quartile_validation": {
+    "p_value": 0.0,
+    "cohens_d": 5.807678699342835,
+    "high_mean": 0.21821825406250303,
+    "low_mean": 0.01299563131845467
+  },
+  "generalization": [
+    {
+      "Domain": "Algebra",
+      "Out-of-Domain R\u00b2": 0.6859325546722379
+    },
+    {
+      "Domain": "Counting & Probability",
+      "Out-of-Domain R\u00b2": 0.6820878284464678
+    },
+    {
+      "Domain": "Geometry",
+      "Out-of-Domain R\u00b2": 0.5717819388505898
+    },
+    {
+      "Domain": "Intermediate Algebra",
+      "Out-of-Domain R\u00b2": 0.6419894110835224
+    },
+    {
+      "Domain": "Number Theory",
+      "Out-of-Domain R\u00b2": 0.8206604397499397
+    },
+    {
+      "Domain": "Prealgebra",
+      "Out-of-Domain R\u00b2": 0.4378835188029444
+    },
+    {
+      "Domain": "Precalculus",
+      "Out-of-Domain R\u00b2": 0.5743573613903776
+    }
+  ]
+}
